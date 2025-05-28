@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bit-cilantro/bit-cilantro.github.io/static/css/main.e8842bf2.css",
-    "main.js": "/bit-cilantro/bit-cilantro.github.io/static/js/main.d32c14da.js",
-    "static/js/453.78b87f59.chunk.js": "/bit-cilantro/bit-cilantro.github.io/static/js/453.78b87f59.chunk.js",
-    "index.html": "/bit-cilantro/bit-cilantro.github.io/index.html",
-    "main.e8842bf2.css.map": "/bit-cilantro/bit-cilantro.github.io/static/css/main.e8842bf2.css.map",
-    "main.d32c14da.js.map": "/bit-cilantro/bit-cilantro.github.io/static/js/main.d32c14da.js.map",
-    "453.78b87f59.chunk.js.map": "/bit-cilantro/bit-cilantro.github.io/static/js/453.78b87f59.chunk.js.map"
+    "main.css": "/bit-cilantro.github.io/static/css/main.e8842bf2.css",
+    "main.js": "/bit-cilantro.github.io/static/js/main.10227f0d.js",
+    "static/js/453.78b87f59.chunk.js": "/bit-cilantro.github.io/static/js/453.78b87f59.chunk.js",
+    "index.html": "/bit-cilantro.github.io/index.html",
+    "main.e8842bf2.css.map": "/bit-cilantro.github.io/static/css/main.e8842bf2.css.map",
+    "main.10227f0d.js.map": "/bit-cilantro.github.io/static/js/main.10227f0d.js.map",
+    "453.78b87f59.chunk.js.map": "/bit-cilantro.github.io/static/js/453.78b87f59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8842bf2.css",
-    "static/js/main.d32c14da.js"
+    "static/js/main.10227f0d.js"
   ]
 }
